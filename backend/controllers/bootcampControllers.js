@@ -11,7 +11,7 @@ exports.getAllBootcamps = asyncHandler(async (req, res, next) => {
   };
 
   const reqQuery = { ...req.query };
-
+  console.log(reqQuery)
   const removeFields = ["sort"];
 
   removeFields.forEach((val) => delete reqQuery[val]);
