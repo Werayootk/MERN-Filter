@@ -16,9 +16,8 @@
         <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
-    <li><a href="#How to Use Your Project">How to Use Your Project </a></li>
-    <li><a href="#credits">Include Credits</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#How-to-Use-Your-Project">How to Use Your Project </a></li>
+    <li><a href="#Include-Credits">Include Credits</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -83,3 +82,16 @@ This is an example of how to list things you need to use the software and how to
 http://localhost:3000/
 ```
 
+<!-- Include Credits -->
+## Include Credits
+
+This project got inspire from https://www.youtube.com/watch?v=3t_PXFa7i8Q 
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@wedevtech](https://twitter.com/wedevtech) - werayoot5800@gmail.com
+
+Project Link: [https://github.com/Werayootk](https://github.com/Werayootk)
+
+Web site [https://werayootk.github.io/demo-portfolio/#/home](https://werayootk.github.io/demo-portfolio/#/home)
