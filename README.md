@@ -16,7 +16,7 @@
         <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
-    <li><a href="#use-project ">How to Use Your Project </a></li>
+    <li><a href="#How to Use Your Project">How to Use Your Project </a></li>
     <li><a href="#credits">Include Credits</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -70,4 +70,16 @@ This is an example of how to list things you need to use the software and how to
 <!-- How to Use Your Project -->
 ## How to Use Your Project
 
+1. In folder backend run `npm start` to start server
+   ```sh
+   npm start
+   ```
+2. In folder frontend run `npm run start` to start client
+   ```sh
+   npm run start
+   ```
+3. Access site by http://localhost:3000/
+```
+http://localhost:3000/
+```
 
