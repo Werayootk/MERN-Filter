@@ -1,4 +1,6 @@
 # MERN-Filter
+[Live Demo](https://mern-filter.herokuapp.com/)
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
